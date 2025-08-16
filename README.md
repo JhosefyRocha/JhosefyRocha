@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Jhosefy 👋
 
-<!--
-**JhosefyRocha/JhosefyRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por **tecnologia** e sempre aprendendo coisas novas. 🚀  
+Atualmente estudando **programação** e desenvolvendo meus projetos pessoais.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 O que estou aprendendo:
+- Java ☕  
+- Lógica de Programação  
+- Git & GitHub  
+
+---
+
+### 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com)  
+- [Email](mailto:seuemail@email.com)  
+
+---
+
+✨ Obrigado por visitar meu perfil!  
